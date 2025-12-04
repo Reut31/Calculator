@@ -28,14 +28,16 @@ The goal of this project is to practice DOM manipulation, event handling, and ba
 
 - `calculator.html` – main page with the calculator UI  
 - `style.css` – styles for the layout and buttons  
-- `calculator.js` / `index.js` – JavaScript logic and event handlers  
-
----<img width="487" height="748" alt="calculator" src="https://github.com/user-attachments/assets/1071b7a4-95c9-4e86-8ec9-aa395d63d070" />
-
+- `calculator.js` / `index.js` – JavaScript logic and event handlers
+  
+---
 
 ## 🚀 How to Run
 
 1. Download or clone this repository.
 2. Open `calculator.html` in your browser.
 3. Start calculating 🙂
+
+<img width="487" height="748" alt="calculator" src="https://github.com/user-attachments/assets/1071b7a4-95c9-4e86-8ec9-aa395d63d070" />
+
 
